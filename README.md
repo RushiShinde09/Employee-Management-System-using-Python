@@ -1,9 +1,9 @@
 # Employee-Management-System-using-Python
 
-Worked on **python project**
+*  Worked on **python project**
 
-created Employee Management
+*  created Employee Management
 
-used **Tkinter** for creating Fronted 
+*  used **Tkinter** for creating Frontend 
 
-Used **MySql** database for data store
+*  Used **MySql** database for data store
